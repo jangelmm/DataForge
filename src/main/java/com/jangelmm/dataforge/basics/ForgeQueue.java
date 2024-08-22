@@ -1,4 +1,4 @@
-package com.jangelmm.dataforge;
+package com.jangelmm.dataforge.basics;
 
 /**
  * A generic queue implementation using a linked list structure.

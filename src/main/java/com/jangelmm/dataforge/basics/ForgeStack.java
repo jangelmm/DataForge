@@ -1,4 +1,4 @@
-package com.jangelmm.dataforge;
+package com.jangelmm.dataforge.basics;
 
 /**
  * A class representing a stack implemented using a singly linked list.

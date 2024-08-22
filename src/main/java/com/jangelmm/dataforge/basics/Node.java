@@ -1,4 +1,4 @@
-package com.jangelmm.dataforge;
+package com.jangelmm.dataforge.basics;
 
 /**
  * A generic Node class used in linked data structures such as stacks, queues, and lists.
